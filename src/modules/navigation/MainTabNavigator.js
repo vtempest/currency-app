@@ -19,7 +19,7 @@ export default function BottomTabs() {
           tabBarIcon: ({ focused }) => (
             <View style={styles.tabBarItemContainer}>
               <Image
-                resizeMode="contain"
+                resize Mode="contain"
                 source={item.icon}
                 style={[styles.tabBarIcon, focused && styles.tabBarIconFocused]}
               />
