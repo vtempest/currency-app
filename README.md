@@ -1,3 +1,9 @@
+### Demo
+Code for currency api is here: https://github.com/vtempest/currency-app/blob/master/src/modules/home/HomeView.js
+
+App uses React Native Starter as base.
+
+### Specifications
 Aim
 To create a cross-platform React Native App to display a list of currency conversion rates of USD to various other currencies.
 
